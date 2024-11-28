@@ -1,0 +1,7 @@
+version: 1.0
+# Configuration file for Amazon CodeGuru Reviewer.
+# Ensure that this file is named aws-codeguru-reviewer.yml and placed in the root of your repository.
+
+# Exclude all files and directories except the src folder.
+excludeFiles:
+  
